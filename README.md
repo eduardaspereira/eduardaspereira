@@ -19,9 +19,7 @@ I’m an engineering graduate pursuing a masters and interested in **technology,
 ---
 
 ### 📊 GitHub Activity
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=eduardaspereira&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=eduardaspereira&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eduardaspereira&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaspereira&layout=compact&theme=radical)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardaspereira&show_icons=true&theme=radical" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=eduardaspereira&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
