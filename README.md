@@ -1,6 +1,6 @@
 # Hi, I'm Eduarda 👋 
 
-I’m an engineering graduate interested in **technology, systems, and how things work in the real world.** I enjoy building "bridges" between different systems—whether through APIs, backend services, or hardware.
+I’m an engineering graduate pursuing a masters and interested in **technology, systems, and how things work in the real world.** I enjoy building "bridges" between different systems—whether through APIs, backend services, or hardware.
 
 
 ### 🛠️ Hard Skills & Technical Expertise
