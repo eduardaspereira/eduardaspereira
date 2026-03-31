@@ -23,4 +23,4 @@ I’m an engineering graduate pursuing a masters and interested in **technology,
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=eduardaspereira&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=eduardaspereira&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-![Snake animation](https://raw.githubusercontent.com/USER/USER/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/github-snake.svg)
