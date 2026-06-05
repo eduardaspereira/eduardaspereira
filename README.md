@@ -21,4 +21,10 @@ I’m an engineering graduate pursuing a masters and interested in **technology,
 ### 📊 GitHub Activity
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=eduardaspereira&theme=chartreuse-dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=eduardaspereira&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
-![](https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/profile-night-view.svg)
+
+## My Contribution Graph <!-- bomberman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/bomberman-contribution-graph.svg" width="100%">
+</picture>
