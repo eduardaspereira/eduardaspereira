@@ -21,9 +21,4 @@ I’m an engineering graduate pursuing a masters and interested in **technology,
 ### 📊 GitHub Activity
 [![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=eduardaspereira&theme=chartreuse-dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=weekly&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=eduardaspereira&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/profile-3d-contrib/profile-head-info.svg">
-  <img src="https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/profile-3d-contrib/profile-night-view.svg" alt="Eduarda's 3D Contribution Graph" width="100%">
-</picture>
+![](https://raw.githubusercontent.com/eduardaspereira/eduardaspereira/output/profile-night-view.svg)
