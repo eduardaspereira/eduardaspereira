@@ -1,0 +1,39 @@
+name: Generate 3D Animation
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # Allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # Run on every push on the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generates the 3D isometric contribution graphs
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # Push the generated images to the output branch
+      - name: Push 3D Graphs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
